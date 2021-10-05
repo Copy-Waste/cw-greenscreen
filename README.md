@@ -16,4 +16,4 @@ As the recycling collection routes are separated based on zones within city and 
 
 ## Vlogs
 
-- [Vlog 1]()
+- [Introduction Vlog](https://youtu.be/EY-dI_pTPFg)
