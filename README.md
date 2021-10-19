@@ -17,3 +17,14 @@ As the recycling collection routes are separated based on zones within city and 
 ## Vlogs
 
 - [Introduction Vlog](https://youtu.be/EY-dI_pTPFg)
+
+## Documentation
+
+- [Community Characteristics Orientation](https://github.com/Copy-Waste/cw-greenscreen/blob/main/Documentation/P01%20-%20405%20-%20Activity%20-%20Community%20Characteristics%20%20Orientation.pdf)
+- [Technology Configuration Inventory](https://github.com/Copy-Waste/cw-greenscreen/blob/main/Documentation/P02%20-%20405%20-%20Activity%20-%20Technology%20Configuration%20Inventory.pdf)
+- [Business Case](https://github.com/Copy-Waste/cw-greenscreen/blob/main/Documentation/P03%20-%20405%20-%20Activity%20-%20Business%20Case%20Template.pdf)
+- [Stakeholder Analysis](https://github.com/Copy-Waste/cw-greenscreen/blob/main/Documentation/P04%20-%20405%20-%20Activity%20-%20Stakeholder%20Analysis%20Template.pdf)
+- [Drafting An Emerging Picture](https://github.com/Copy-Waste/cw-greenscreen/blob/main/Documentation/P05%20-%20405%20-%20Activity%20-%20Drafting%20An%20Emerging%20Picture.pdf)
+- [Project Scope Statement](https://github.com/Copy-Waste/cw-greenscreen/blob/main/Documentation/P06%20-%20405%20-%20Activity%20-%20Project%20Scope%20Statement.pdf)
+- [Project Requirements](https://github.com/Copy-Waste/cw-greenscreen/blob/main/Documentation/P07%20-%20405%20-%20Activity%20-%20Project%20Requirements.pdf)
+- [Activity-Based Schedule](https://github.com/Copy-Waste/cw-greenscreen/blob/main/Documentation/P08%20-%20405%20-%20Activity%20-%20Activity-Based%20Schedule.pdf)
