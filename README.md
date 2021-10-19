@@ -28,6 +28,7 @@ As the recycling collection routes are separated based on zones within city and 
 - [Project Scope Statement](https://github.com/Copy-Waste/cw-greenscreen/blob/main/Documentation/P06%20-%20405%20-%20Activity%20-%20Project%20Scope%20Statement.pdf)
 - [Project Requirements](https://github.com/Copy-Waste/cw-greenscreen/blob/main/Documentation/P07%20-%20405%20-%20Activity%20-%20Project%20Requirements.pdf)
 - [Activity-Based Schedule](https://github.com/Copy-Waste/cw-greenscreen/blob/main/Documentation/P08%20-%20405%20-%20Activity%20-%20Activity-Based%20Schedule.pdf)
+- [User Story Map Board](https://github.com/Copy-Waste/cw-greenscreen/blob/main/Documentation/User%20Story%20Map.pdf)
 
 ## Diagrams
 
