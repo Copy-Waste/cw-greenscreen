@@ -24,7 +24,11 @@ As the recycling collection routes are separated based on zones within city and 
 
 ## Project Status
 
-- [MVP 1 Project Status](https://github.com/Copy-Waste/cw-greenscreen/blob/main/Project%20Status/MVP%201%20-%20Project%20Status%20Report.pdf)
+### MVP 1
+
+- [MVP 1 - Project Status](https://github.com/Copy-Waste/cw-greenscreen/blob/main/Project%20Status/MVP%201/MVP%201%20-%20Project%20Status%20Report.pdf)
+- [MVP 1 - Dashboard Screenshots](https://github.com/Copy-Waste/cw-greenscreen/blob/main/Project%20Status/MVP%201/MVP%201%20-%20Dashboard%20Screenshots.pdf)
+- [MVP 1 - Kanban Board Progress](https://github.com/Copy-Waste/cw-greenscreen/blob/main/Project%20Status/MVP%201/MVP%201%20-%20Kanban%20Board.pdf)
 
 ## Documentation
 
