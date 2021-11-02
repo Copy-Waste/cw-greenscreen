@@ -4,6 +4,10 @@ This project's focus is on sustainability [Goal 11 - Sustainable Cities and Comm
 
 This project is in partnership with [Prairie Robotics](https://www.prairierobotics.com/).
 
+This project is hosted within the Prairie Robotics organization. [Click here to visit the project](https://github.com/proboticsinc/streamsight/tree/10-29-CopyWaste).
+
+- source code within `apps/copywaste`
+
 ## Project Background
 
 Recycling within the City of Regina is heavily contaminated, inefficient, and expensive. These contaminants lead to a significant amount of recyclables being redirected to landfills. This is unsustainable for the city but also unacceptable and irresponsible to actively harm the environment knowing improvements can be made.In its current state, the collected recycling data is difficult to visualize and analyze in order to educate the public effectively on better recycling habits.
@@ -17,6 +21,10 @@ As the recycling collection routes are separated based on zones within city and 
 ## Vlogs
 
 - [Introduction Vlog](https://youtu.be/EY-dI_pTPFg)
+
+## Project Status
+
+- [MVP 1 Project Status]()
 
 ## Documentation
 
