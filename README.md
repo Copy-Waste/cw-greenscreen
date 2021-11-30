@@ -38,6 +38,13 @@ As the recycling collection routes are separated based on zones within city and 
 - [MVP 2 - Incorporating Class Topics](https://github.com/Copy-Waste/cw-greenscreen/blob/main/Project%20Status/MVP%202/MVP%202%20-%20Incorporating%20Class%20Topics.pdf)
 - [MVP 2 - Interactive Map Gif](https://github.com/Copy-Waste/cw-greenscreen/blob/main/Project%20Status/MVP%202/Dashboard%20with%20interactive%20map.gif)
 
+### MVP 3
+
+- [MVP 3 - Project Status](https://github.com/Copy-Waste/cw-greenscreen/blob/main/Project%20Status/MVP%203/MVP%203%20-%20Project%20Status%20Report.pdf)
+- [MVP 3 - Dashboard Screenshots](https://github.com/Copy-Waste/cw-greenscreen/blob/main/Project%20Status/MVP%203/MVP%203%20-%20Dashboard%20Screenshots.pdf)
+- [MVP 3 - Kanban Board Progress](https://github.com/Copy-Waste/cw-greenscreen/blob/main/Project%20Status/MVP%203/MVP%203%20-%20Kanban%20Board.pdf)
+- [MVP 3 - Dashboard Flow Demo](https://github.com/Copy-Waste/cw-greenscreen/blob/main/Project%20Status/MVP%203/MVP%203%20-%20Dashboard%20Flow%20Demo.gif)
+
 ## Documentation
 
 - [Community Characteristics Orientation](https://github.com/Copy-Waste/cw-greenscreen/blob/main/Documentation/P01%20-%20405%20-%20Activity%20-%20Community%20Characteristics%20%20Orientation.pdf)
