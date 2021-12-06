@@ -18,6 +18,35 @@ I believe there is a large area of improvement in utilizing this data which is b
 
 As the recycling collection routes are separated based on zones within city and are collected on different days, recycling from each day can be thoroughly analyzed to understand its levels of contamination as well as its rate of success. A representation of this data which currently does not exist for Regina, will help the city understand issues with household recycling and strengthen the waste management program.
 
+
+## Installation
+
+Note: This project depends on Streamsight-API to retrieve data. Follow the guide [here](https://github.com/proboticsinc/streamsight/blob/master/README.md) to properly install the API and initialize a local database. You will require authorization from Prairie Robotics to establish a secure connection.
+
+1. Clone the repository
+
+    ```sh
+    git clone https://github.com/proboticsinc/streamsight.git
+    ```
+
+2. Install the dependencies
+
+    ```sh
+    yarn
+    ```
+
+3. Switch to branch 10-29-CopyWaste
+
+    ```sh
+    git checkout 10-29-CopyWaste
+    ```
+
+4. Run the Application
+
+    ```sh
+    nx serve copywaste
+    ```
+
 ## Vlogs
 
 - [Introduction Vlog](https://youtu.be/EY-dI_pTPFg)
