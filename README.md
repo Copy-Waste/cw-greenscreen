@@ -47,9 +47,10 @@ Note: This project depends on Streamsight-API to retrieve data. Follow the guide
     nx serve copywaste
     ```
 
-## Vlogs
+## Videos
 
 - [Introduction Vlog](https://youtu.be/EY-dI_pTPFg)
+- [Commercial](https://youtu.be/YhW4TDqmmDs)
 
 ## Project Status
 
